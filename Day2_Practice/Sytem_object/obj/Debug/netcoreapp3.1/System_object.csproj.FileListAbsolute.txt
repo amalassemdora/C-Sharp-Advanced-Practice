@@ -1,0 +1,13 @@
+E:\ITI\iti\C# Advanced\Day 2\Tasks\Day2_Practice\Sytem_object\bin\Debug\netcoreapp3.1\System_object.exe
+E:\ITI\iti\C# Advanced\Day 2\Tasks\Day2_Practice\Sytem_object\bin\Debug\netcoreapp3.1\System_object.deps.json
+E:\ITI\iti\C# Advanced\Day 2\Tasks\Day2_Practice\Sytem_object\bin\Debug\netcoreapp3.1\System_object.runtimeconfig.json
+E:\ITI\iti\C# Advanced\Day 2\Tasks\Day2_Practice\Sytem_object\bin\Debug\netcoreapp3.1\System_object.runtimeconfig.dev.json
+E:\ITI\iti\C# Advanced\Day 2\Tasks\Day2_Practice\Sytem_object\bin\Debug\netcoreapp3.1\System_object.dll
+E:\ITI\iti\C# Advanced\Day 2\Tasks\Day2_Practice\Sytem_object\bin\Debug\netcoreapp3.1\System_object.pdb
+E:\ITI\iti\C# Advanced\Day 2\Tasks\Day2_Practice\Sytem_object\obj\Debug\netcoreapp3.1\System_object.csprojAssemblyReference.cache
+E:\ITI\iti\C# Advanced\Day 2\Tasks\Day2_Practice\Sytem_object\obj\Debug\netcoreapp3.1\System_object.AssemblyInfoInputs.cache
+E:\ITI\iti\C# Advanced\Day 2\Tasks\Day2_Practice\Sytem_object\obj\Debug\netcoreapp3.1\System_object.AssemblyInfo.cs
+E:\ITI\iti\C# Advanced\Day 2\Tasks\Day2_Practice\Sytem_object\obj\Debug\netcoreapp3.1\System_object.csproj.CoreCompileInputs.cache
+E:\ITI\iti\C# Advanced\Day 2\Tasks\Day2_Practice\Sytem_object\obj\Debug\netcoreapp3.1\System_object.dll
+E:\ITI\iti\C# Advanced\Day 2\Tasks\Day2_Practice\Sytem_object\obj\Debug\netcoreapp3.1\System_object.pdb
+E:\ITI\iti\C# Advanced\Day 2\Tasks\Day2_Practice\Sytem_object\obj\Debug\netcoreapp3.1\System_object.genruntimeconfig.cache

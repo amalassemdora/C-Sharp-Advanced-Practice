@@ -1,0 +1,13 @@
+E:\ITI\iti\C# Advanced\Day 2\Tasks\Day2_Practice\Value_Reference_Type\bin\Debug\netcoreapp3.1\Value_Reference_Type.exe
+E:\ITI\iti\C# Advanced\Day 2\Tasks\Day2_Practice\Value_Reference_Type\bin\Debug\netcoreapp3.1\Value_Reference_Type.deps.json
+E:\ITI\iti\C# Advanced\Day 2\Tasks\Day2_Practice\Value_Reference_Type\bin\Debug\netcoreapp3.1\Value_Reference_Type.runtimeconfig.json
+E:\ITI\iti\C# Advanced\Day 2\Tasks\Day2_Practice\Value_Reference_Type\bin\Debug\netcoreapp3.1\Value_Reference_Type.runtimeconfig.dev.json
+E:\ITI\iti\C# Advanced\Day 2\Tasks\Day2_Practice\Value_Reference_Type\bin\Debug\netcoreapp3.1\Value_Reference_Type.dll
+E:\ITI\iti\C# Advanced\Day 2\Tasks\Day2_Practice\Value_Reference_Type\bin\Debug\netcoreapp3.1\Value_Reference_Type.pdb
+E:\ITI\iti\C# Advanced\Day 2\Tasks\Day2_Practice\Value_Reference_Type\obj\Debug\netcoreapp3.1\Value_Reference_Type.csprojAssemblyReference.cache
+E:\ITI\iti\C# Advanced\Day 2\Tasks\Day2_Practice\Value_Reference_Type\obj\Debug\netcoreapp3.1\Value_Reference_Type.AssemblyInfoInputs.cache
+E:\ITI\iti\C# Advanced\Day 2\Tasks\Day2_Practice\Value_Reference_Type\obj\Debug\netcoreapp3.1\Value_Reference_Type.AssemblyInfo.cs
+E:\ITI\iti\C# Advanced\Day 2\Tasks\Day2_Practice\Value_Reference_Type\obj\Debug\netcoreapp3.1\Value_Reference_Type.csproj.CoreCompileInputs.cache
+E:\ITI\iti\C# Advanced\Day 2\Tasks\Day2_Practice\Value_Reference_Type\obj\Debug\netcoreapp3.1\Value_Reference_Type.dll
+E:\ITI\iti\C# Advanced\Day 2\Tasks\Day2_Practice\Value_Reference_Type\obj\Debug\netcoreapp3.1\Value_Reference_Type.pdb
+E:\ITI\iti\C# Advanced\Day 2\Tasks\Day2_Practice\Value_Reference_Type\obj\Debug\netcoreapp3.1\Value_Reference_Type.genruntimeconfig.cache
