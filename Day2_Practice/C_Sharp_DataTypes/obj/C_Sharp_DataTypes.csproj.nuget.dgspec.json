@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\ITI\\practice\\c# advanced\\Point3D\\Point3D\\Point3D.csproj": {}
+    "E:\\ITI\\iti\\C# Advanced\\Day 2\\Tasks\\Day2_Practice\\C_Sharp_DataTypes\\C_Sharp_DataTypes.csproj": {}
   },
   "projects": {
-    "E:\\ITI\\practice\\c# advanced\\Point3D\\Point3D\\Point3D.csproj": {
+    "E:\\ITI\\iti\\C# Advanced\\Day 2\\Tasks\\Day2_Practice\\C_Sharp_DataTypes\\C_Sharp_DataTypes.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\ITI\\practice\\c# advanced\\Point3D\\Point3D\\Point3D.csproj",
-        "projectName": "Point3D",
-        "projectPath": "E:\\ITI\\practice\\c# advanced\\Point3D\\Point3D\\Point3D.csproj",
+        "projectUniqueName": "E:\\ITI\\iti\\C# Advanced\\Day 2\\Tasks\\Day2_Practice\\C_Sharp_DataTypes\\C_Sharp_DataTypes.csproj",
+        "projectName": "C_Sharp_DataTypes",
+        "projectPath": "E:\\ITI\\iti\\C# Advanced\\Day 2\\Tasks\\Day2_Practice\\C_Sharp_DataTypes\\C_Sharp_DataTypes.csproj",
         "packagesPath": "C:\\Users\\PC\\.nuget\\packages\\",
-        "outputPath": "E:\\ITI\\practice\\c# advanced\\Point3D\\Point3D\\obj\\",
+        "outputPath": "E:\\ITI\\iti\\C# Advanced\\Day 2\\Tasks\\Day2_Practice\\C_Sharp_DataTypes\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

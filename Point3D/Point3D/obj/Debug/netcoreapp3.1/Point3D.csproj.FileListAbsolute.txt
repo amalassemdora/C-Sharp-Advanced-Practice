@@ -11,3 +11,16 @@ E:\ITI\iti\C# Advanced\Day 2\Tasks\Point3D\Point3D\obj\Debug\netcoreapp3.1\Point
 E:\ITI\iti\C# Advanced\Day 2\Tasks\Point3D\Point3D\obj\Debug\netcoreapp3.1\Point3D.dll
 E:\ITI\iti\C# Advanced\Day 2\Tasks\Point3D\Point3D\obj\Debug\netcoreapp3.1\Point3D.pdb
 E:\ITI\iti\C# Advanced\Day 2\Tasks\Point3D\Point3D\obj\Debug\netcoreapp3.1\Point3D.genruntimeconfig.cache
+E:\ITI\practice\c# advanced\Point3D\Point3D\bin\Debug\netcoreapp3.1\Point3D.exe
+E:\ITI\practice\c# advanced\Point3D\Point3D\bin\Debug\netcoreapp3.1\Point3D.deps.json
+E:\ITI\practice\c# advanced\Point3D\Point3D\bin\Debug\netcoreapp3.1\Point3D.runtimeconfig.json
+E:\ITI\practice\c# advanced\Point3D\Point3D\bin\Debug\netcoreapp3.1\Point3D.runtimeconfig.dev.json
+E:\ITI\practice\c# advanced\Point3D\Point3D\bin\Debug\netcoreapp3.1\Point3D.dll
+E:\ITI\practice\c# advanced\Point3D\Point3D\bin\Debug\netcoreapp3.1\Point3D.pdb
+E:\ITI\practice\c# advanced\Point3D\Point3D\obj\Debug\netcoreapp3.1\Point3D.csprojAssemblyReference.cache
+E:\ITI\practice\c# advanced\Point3D\Point3D\obj\Debug\netcoreapp3.1\Point3D.AssemblyInfoInputs.cache
+E:\ITI\practice\c# advanced\Point3D\Point3D\obj\Debug\netcoreapp3.1\Point3D.AssemblyInfo.cs
+E:\ITI\practice\c# advanced\Point3D\Point3D\obj\Debug\netcoreapp3.1\Point3D.csproj.CoreCompileInputs.cache
+E:\ITI\practice\c# advanced\Point3D\Point3D\obj\Debug\netcoreapp3.1\Point3D.dll
+E:\ITI\practice\c# advanced\Point3D\Point3D\obj\Debug\netcoreapp3.1\Point3D.pdb
+E:\ITI\practice\c# advanced\Point3D\Point3D\obj\Debug\netcoreapp3.1\Point3D.genruntimeconfig.cache

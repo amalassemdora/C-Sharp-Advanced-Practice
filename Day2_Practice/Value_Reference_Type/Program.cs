@@ -10,7 +10,7 @@ namespace Value_Reference_Type
 		#endregion
 
 		#region constructors
-		public Student(int _id,string _name)
+		public Student(int _id, string _name)
 		{
 			id = _id;
 			name = _name;
@@ -43,13 +43,13 @@ namespace Value_Reference_Type
 
 			#region Reference type
 			Console.WriteLine("\n\n***********Reference type***********");
-			Student s1 = new Student(8,"Amal Assem");
+			Student s1 = new Student(8, "Amal Assem");
 			Student s2 = new Student(5, "Fatma Assem");
 			Console.WriteLine($"\nIn begining : \n\tStudent1 :{s1.Print()}\n\tStudent2 :{s2.Print()}");
 			s1 = s2;
 			Console.WriteLine($"\nAfter Assignment s2 to s1 : \n\tStudent1 :{s1.Print()}\n\tStudent2 :{s2.Print()}");
 			s2.id = 10;
-			s2.name="Amany Assem";
+			s2.name = "Amany Assem";
 			Console.WriteLine($"\nAfter changing the value of s2 : \n\tStudent1 :{s1.Print()}\n\tStudent2 :{s2.Print()}");
 			#endregion
 			Console.ReadKey();

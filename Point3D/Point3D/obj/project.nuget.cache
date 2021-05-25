@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Lm9x2oXQhq0ZCRojA2+G/bT6oT/CoRsj0aU29Q0NHq//w7IPUy5XKKcjplwfVZ/QTyBl0oXBJz74ywHNX8sv9Q==",
+  "dgSpecHash": "0BagX9D0hchO0Ubn6c7ZYlUYoZuHrukiN7IKg6edNw5Ius8+iEnke8DtoSGrzITrvAX1xFYFwm9Rz2HShHDDiw==",
   "success": true,
-  "projectFilePath": "E:\\ITI\\iti\\C# Advanced\\Day 2\\Tasks\\Point3D\\Point3D\\Point3D.csproj",
+  "projectFilePath": "E:\\ITI\\practice\\c# advanced\\Point3D\\Point3D\\Point3D.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

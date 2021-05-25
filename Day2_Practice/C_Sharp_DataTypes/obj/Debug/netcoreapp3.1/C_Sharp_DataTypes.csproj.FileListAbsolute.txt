@@ -1,0 +1,13 @@
+E:\ITI\iti\C# Advanced\Day 2\Tasks\Day2_Practice\C_Sharp_DataTypes\bin\Debug\netcoreapp3.1\C_Sharp_DataTypes.exe
+E:\ITI\iti\C# Advanced\Day 2\Tasks\Day2_Practice\C_Sharp_DataTypes\bin\Debug\netcoreapp3.1\C_Sharp_DataTypes.deps.json
+E:\ITI\iti\C# Advanced\Day 2\Tasks\Day2_Practice\C_Sharp_DataTypes\bin\Debug\netcoreapp3.1\C_Sharp_DataTypes.runtimeconfig.json
+E:\ITI\iti\C# Advanced\Day 2\Tasks\Day2_Practice\C_Sharp_DataTypes\bin\Debug\netcoreapp3.1\C_Sharp_DataTypes.runtimeconfig.dev.json
+E:\ITI\iti\C# Advanced\Day 2\Tasks\Day2_Practice\C_Sharp_DataTypes\bin\Debug\netcoreapp3.1\C_Sharp_DataTypes.dll
+E:\ITI\iti\C# Advanced\Day 2\Tasks\Day2_Practice\C_Sharp_DataTypes\bin\Debug\netcoreapp3.1\C_Sharp_DataTypes.pdb
+E:\ITI\iti\C# Advanced\Day 2\Tasks\Day2_Practice\C_Sharp_DataTypes\obj\Debug\netcoreapp3.1\C_Sharp_DataTypes.csprojAssemblyReference.cache
+E:\ITI\iti\C# Advanced\Day 2\Tasks\Day2_Practice\C_Sharp_DataTypes\obj\Debug\netcoreapp3.1\C_Sharp_DataTypes.AssemblyInfoInputs.cache
+E:\ITI\iti\C# Advanced\Day 2\Tasks\Day2_Practice\C_Sharp_DataTypes\obj\Debug\netcoreapp3.1\C_Sharp_DataTypes.AssemblyInfo.cs
+E:\ITI\iti\C# Advanced\Day 2\Tasks\Day2_Practice\C_Sharp_DataTypes\obj\Debug\netcoreapp3.1\C_Sharp_DataTypes.csproj.CoreCompileInputs.cache
+E:\ITI\iti\C# Advanced\Day 2\Tasks\Day2_Practice\C_Sharp_DataTypes\obj\Debug\netcoreapp3.1\C_Sharp_DataTypes.dll
+E:\ITI\iti\C# Advanced\Day 2\Tasks\Day2_Practice\C_Sharp_DataTypes\obj\Debug\netcoreapp3.1\C_Sharp_DataTypes.pdb
+E:\ITI\iti\C# Advanced\Day 2\Tasks\Day2_Practice\C_Sharp_DataTypes\obj\Debug\netcoreapp3.1\C_Sharp_DataTypes.genruntimeconfig.cache
