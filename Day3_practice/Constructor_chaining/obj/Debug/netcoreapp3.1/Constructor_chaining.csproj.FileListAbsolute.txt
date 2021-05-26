@@ -1,0 +1,13 @@
+E:\ITI\iti\C# Advanced\Day3\Tasks\Day3_practice\Constructor_chaining\bin\Debug\netcoreapp3.1\Constructor_chaining.exe
+E:\ITI\iti\C# Advanced\Day3\Tasks\Day3_practice\Constructor_chaining\bin\Debug\netcoreapp3.1\Constructor_chaining.deps.json
+E:\ITI\iti\C# Advanced\Day3\Tasks\Day3_practice\Constructor_chaining\bin\Debug\netcoreapp3.1\Constructor_chaining.runtimeconfig.json
+E:\ITI\iti\C# Advanced\Day3\Tasks\Day3_practice\Constructor_chaining\bin\Debug\netcoreapp3.1\Constructor_chaining.runtimeconfig.dev.json
+E:\ITI\iti\C# Advanced\Day3\Tasks\Day3_practice\Constructor_chaining\bin\Debug\netcoreapp3.1\Constructor_chaining.dll
+E:\ITI\iti\C# Advanced\Day3\Tasks\Day3_practice\Constructor_chaining\bin\Debug\netcoreapp3.1\Constructor_chaining.pdb
+E:\ITI\iti\C# Advanced\Day3\Tasks\Day3_practice\Constructor_chaining\obj\Debug\netcoreapp3.1\Constructor_chaining.csprojAssemblyReference.cache
+E:\ITI\iti\C# Advanced\Day3\Tasks\Day3_practice\Constructor_chaining\obj\Debug\netcoreapp3.1\Constructor_chaining.AssemblyInfoInputs.cache
+E:\ITI\iti\C# Advanced\Day3\Tasks\Day3_practice\Constructor_chaining\obj\Debug\netcoreapp3.1\Constructor_chaining.AssemblyInfo.cs
+E:\ITI\iti\C# Advanced\Day3\Tasks\Day3_practice\Constructor_chaining\obj\Debug\netcoreapp3.1\Constructor_chaining.csproj.CoreCompileInputs.cache
+E:\ITI\iti\C# Advanced\Day3\Tasks\Day3_practice\Constructor_chaining\obj\Debug\netcoreapp3.1\Constructor_chaining.dll
+E:\ITI\iti\C# Advanced\Day3\Tasks\Day3_practice\Constructor_chaining\obj\Debug\netcoreapp3.1\Constructor_chaining.pdb
+E:\ITI\iti\C# Advanced\Day3\Tasks\Day3_practice\Constructor_chaining\obj\Debug\netcoreapp3.1\Constructor_chaining.genruntimeconfig.cache

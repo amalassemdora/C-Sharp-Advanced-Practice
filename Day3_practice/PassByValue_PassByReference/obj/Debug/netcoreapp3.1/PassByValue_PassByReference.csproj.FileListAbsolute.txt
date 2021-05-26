@@ -1,0 +1,13 @@
+E:\ITI\iti\C# Advanced\Day3\Tasks\Day3_practice\PassByValue_PassByReference\obj\Debug\netcoreapp3.1\PassByValue_PassByReference.csprojAssemblyReference.cache
+E:\ITI\iti\C# Advanced\Day3\Tasks\Day3_practice\PassByValue_PassByReference\obj\Debug\netcoreapp3.1\PassByValue_PassByReference.AssemblyInfoInputs.cache
+E:\ITI\iti\C# Advanced\Day3\Tasks\Day3_practice\PassByValue_PassByReference\obj\Debug\netcoreapp3.1\PassByValue_PassByReference.AssemblyInfo.cs
+E:\ITI\iti\C# Advanced\Day3\Tasks\Day3_practice\PassByValue_PassByReference\obj\Debug\netcoreapp3.1\PassByValue_PassByReference.csproj.CoreCompileInputs.cache
+E:\ITI\iti\C# Advanced\Day3\Tasks\Day3_practice\PassByValue_PassByReference\bin\Debug\netcoreapp3.1\PassByValue_PassByReference.exe
+E:\ITI\iti\C# Advanced\Day3\Tasks\Day3_practice\PassByValue_PassByReference\bin\Debug\netcoreapp3.1\PassByValue_PassByReference.deps.json
+E:\ITI\iti\C# Advanced\Day3\Tasks\Day3_practice\PassByValue_PassByReference\bin\Debug\netcoreapp3.1\PassByValue_PassByReference.runtimeconfig.json
+E:\ITI\iti\C# Advanced\Day3\Tasks\Day3_practice\PassByValue_PassByReference\bin\Debug\netcoreapp3.1\PassByValue_PassByReference.runtimeconfig.dev.json
+E:\ITI\iti\C# Advanced\Day3\Tasks\Day3_practice\PassByValue_PassByReference\bin\Debug\netcoreapp3.1\PassByValue_PassByReference.dll
+E:\ITI\iti\C# Advanced\Day3\Tasks\Day3_practice\PassByValue_PassByReference\bin\Debug\netcoreapp3.1\PassByValue_PassByReference.pdb
+E:\ITI\iti\C# Advanced\Day3\Tasks\Day3_practice\PassByValue_PassByReference\obj\Debug\netcoreapp3.1\PassByValue_PassByReference.dll
+E:\ITI\iti\C# Advanced\Day3\Tasks\Day3_practice\PassByValue_PassByReference\obj\Debug\netcoreapp3.1\PassByValue_PassByReference.pdb
+E:\ITI\iti\C# Advanced\Day3\Tasks\Day3_practice\PassByValue_PassByReference\obj\Debug\netcoreapp3.1\PassByValue_PassByReference.genruntimeconfig.cache
