@@ -1,0 +1,13 @@
+E:\ITI\iti\C# Advanced\Day3\Tasks\Complex_Number\Complex_Number\obj\Debug\netcoreapp3.1\Complex_Number.csprojAssemblyReference.cache
+E:\ITI\iti\C# Advanced\Day3\Tasks\Complex_Number\Complex_Number\obj\Debug\netcoreapp3.1\Complex_Number.AssemblyInfoInputs.cache
+E:\ITI\iti\C# Advanced\Day3\Tasks\Complex_Number\Complex_Number\obj\Debug\netcoreapp3.1\Complex_Number.AssemblyInfo.cs
+E:\ITI\iti\C# Advanced\Day3\Tasks\Complex_Number\Complex_Number\obj\Debug\netcoreapp3.1\Complex_Number.csproj.CoreCompileInputs.cache
+E:\ITI\iti\C# Advanced\Day3\Tasks\Complex_Number\Complex_Number\bin\Debug\netcoreapp3.1\Complex_Number.exe
+E:\ITI\iti\C# Advanced\Day3\Tasks\Complex_Number\Complex_Number\bin\Debug\netcoreapp3.1\Complex_Number.deps.json
+E:\ITI\iti\C# Advanced\Day3\Tasks\Complex_Number\Complex_Number\bin\Debug\netcoreapp3.1\Complex_Number.runtimeconfig.json
+E:\ITI\iti\C# Advanced\Day3\Tasks\Complex_Number\Complex_Number\bin\Debug\netcoreapp3.1\Complex_Number.runtimeconfig.dev.json
+E:\ITI\iti\C# Advanced\Day3\Tasks\Complex_Number\Complex_Number\bin\Debug\netcoreapp3.1\Complex_Number.dll
+E:\ITI\iti\C# Advanced\Day3\Tasks\Complex_Number\Complex_Number\bin\Debug\netcoreapp3.1\Complex_Number.pdb
+E:\ITI\iti\C# Advanced\Day3\Tasks\Complex_Number\Complex_Number\obj\Debug\netcoreapp3.1\Complex_Number.dll
+E:\ITI\iti\C# Advanced\Day3\Tasks\Complex_Number\Complex_Number\obj\Debug\netcoreapp3.1\Complex_Number.pdb
+E:\ITI\iti\C# Advanced\Day3\Tasks\Complex_Number\Complex_Number\obj\Debug\netcoreapp3.1\Complex_Number.genruntimeconfig.cache
