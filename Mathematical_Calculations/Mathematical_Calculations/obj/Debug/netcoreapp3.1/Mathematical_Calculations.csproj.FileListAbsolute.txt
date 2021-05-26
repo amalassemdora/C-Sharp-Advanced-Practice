@@ -1,0 +1,13 @@
+E:\ITI\iti\C# Advanced\Day3\Tasks\Mathematical_Calculations\Mathematical_Calculations\bin\Debug\netcoreapp3.1\Mathematical_Calculations.exe
+E:\ITI\iti\C# Advanced\Day3\Tasks\Mathematical_Calculations\Mathematical_Calculations\bin\Debug\netcoreapp3.1\Mathematical_Calculations.deps.json
+E:\ITI\iti\C# Advanced\Day3\Tasks\Mathematical_Calculations\Mathematical_Calculations\bin\Debug\netcoreapp3.1\Mathematical_Calculations.runtimeconfig.json
+E:\ITI\iti\C# Advanced\Day3\Tasks\Mathematical_Calculations\Mathematical_Calculations\bin\Debug\netcoreapp3.1\Mathematical_Calculations.runtimeconfig.dev.json
+E:\ITI\iti\C# Advanced\Day3\Tasks\Mathematical_Calculations\Mathematical_Calculations\bin\Debug\netcoreapp3.1\Mathematical_Calculations.dll
+E:\ITI\iti\C# Advanced\Day3\Tasks\Mathematical_Calculations\Mathematical_Calculations\bin\Debug\netcoreapp3.1\Mathematical_Calculations.pdb
+E:\ITI\iti\C# Advanced\Day3\Tasks\Mathematical_Calculations\Mathematical_Calculations\obj\Debug\netcoreapp3.1\Mathematical_Calculations.csprojAssemblyReference.cache
+E:\ITI\iti\C# Advanced\Day3\Tasks\Mathematical_Calculations\Mathematical_Calculations\obj\Debug\netcoreapp3.1\Mathematical_Calculations.AssemblyInfoInputs.cache
+E:\ITI\iti\C# Advanced\Day3\Tasks\Mathematical_Calculations\Mathematical_Calculations\obj\Debug\netcoreapp3.1\Mathematical_Calculations.AssemblyInfo.cs
+E:\ITI\iti\C# Advanced\Day3\Tasks\Mathematical_Calculations\Mathematical_Calculations\obj\Debug\netcoreapp3.1\Mathematical_Calculations.csproj.CoreCompileInputs.cache
+E:\ITI\iti\C# Advanced\Day3\Tasks\Mathematical_Calculations\Mathematical_Calculations\obj\Debug\netcoreapp3.1\Mathematical_Calculations.dll
+E:\ITI\iti\C# Advanced\Day3\Tasks\Mathematical_Calculations\Mathematical_Calculations\obj\Debug\netcoreapp3.1\Mathematical_Calculations.pdb
+E:\ITI\iti\C# Advanced\Day3\Tasks\Mathematical_Calculations\Mathematical_Calculations\obj\Debug\netcoreapp3.1\Mathematical_Calculations.genruntimeconfig.cache
