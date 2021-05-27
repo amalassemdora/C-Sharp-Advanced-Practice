@@ -1,0 +1,13 @@
+E:\ITI\iti\C# Advanced\Day-4\Task\Instractors\Instractors\obj\Debug\netcoreapp3.1\Instractors.csprojAssemblyReference.cache
+E:\ITI\iti\C# Advanced\Day-4\Task\Instractors\Instractors\obj\Debug\netcoreapp3.1\Instractors.AssemblyInfoInputs.cache
+E:\ITI\iti\C# Advanced\Day-4\Task\Instractors\Instractors\obj\Debug\netcoreapp3.1\Instractors.AssemblyInfo.cs
+E:\ITI\iti\C# Advanced\Day-4\Task\Instractors\Instractors\obj\Debug\netcoreapp3.1\Instractors.csproj.CoreCompileInputs.cache
+E:\ITI\iti\C# Advanced\Day-4\Task\Instractors\Instractors\bin\Debug\netcoreapp3.1\Instractors.exe
+E:\ITI\iti\C# Advanced\Day-4\Task\Instractors\Instractors\bin\Debug\netcoreapp3.1\Instractors.deps.json
+E:\ITI\iti\C# Advanced\Day-4\Task\Instractors\Instractors\bin\Debug\netcoreapp3.1\Instractors.runtimeconfig.json
+E:\ITI\iti\C# Advanced\Day-4\Task\Instractors\Instractors\bin\Debug\netcoreapp3.1\Instractors.runtimeconfig.dev.json
+E:\ITI\iti\C# Advanced\Day-4\Task\Instractors\Instractors\bin\Debug\netcoreapp3.1\Instractors.dll
+E:\ITI\iti\C# Advanced\Day-4\Task\Instractors\Instractors\bin\Debug\netcoreapp3.1\Instractors.pdb
+E:\ITI\iti\C# Advanced\Day-4\Task\Instractors\Instractors\obj\Debug\netcoreapp3.1\Instractors.dll
+E:\ITI\iti\C# Advanced\Day-4\Task\Instractors\Instractors\obj\Debug\netcoreapp3.1\Instractors.pdb
+E:\ITI\iti\C# Advanced\Day-4\Task\Instractors\Instractors\obj\Debug\netcoreapp3.1\Instractors.genruntimeconfig.cache
