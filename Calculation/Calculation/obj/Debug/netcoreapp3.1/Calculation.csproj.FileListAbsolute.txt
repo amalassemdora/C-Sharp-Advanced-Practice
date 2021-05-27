@@ -1,0 +1,13 @@
+E:\ITI\iti\C# Advanced\Day-4\Task\Calculation\Calculation\bin\Debug\netcoreapp3.1\Calculation.exe
+E:\ITI\iti\C# Advanced\Day-4\Task\Calculation\Calculation\bin\Debug\netcoreapp3.1\Calculation.deps.json
+E:\ITI\iti\C# Advanced\Day-4\Task\Calculation\Calculation\bin\Debug\netcoreapp3.1\Calculation.runtimeconfig.json
+E:\ITI\iti\C# Advanced\Day-4\Task\Calculation\Calculation\bin\Debug\netcoreapp3.1\Calculation.runtimeconfig.dev.json
+E:\ITI\iti\C# Advanced\Day-4\Task\Calculation\Calculation\bin\Debug\netcoreapp3.1\Calculation.dll
+E:\ITI\iti\C# Advanced\Day-4\Task\Calculation\Calculation\bin\Debug\netcoreapp3.1\Calculation.pdb
+E:\ITI\iti\C# Advanced\Day-4\Task\Calculation\Calculation\obj\Debug\netcoreapp3.1\Calculation.csprojAssemblyReference.cache
+E:\ITI\iti\C# Advanced\Day-4\Task\Calculation\Calculation\obj\Debug\netcoreapp3.1\Calculation.AssemblyInfoInputs.cache
+E:\ITI\iti\C# Advanced\Day-4\Task\Calculation\Calculation\obj\Debug\netcoreapp3.1\Calculation.AssemblyInfo.cs
+E:\ITI\iti\C# Advanced\Day-4\Task\Calculation\Calculation\obj\Debug\netcoreapp3.1\Calculation.csproj.CoreCompileInputs.cache
+E:\ITI\iti\C# Advanced\Day-4\Task\Calculation\Calculation\obj\Debug\netcoreapp3.1\Calculation.dll
+E:\ITI\iti\C# Advanced\Day-4\Task\Calculation\Calculation\obj\Debug\netcoreapp3.1\Calculation.pdb
+E:\ITI\iti\C# Advanced\Day-4\Task\Calculation\Calculation\obj\Debug\netcoreapp3.1\Calculation.genruntimeconfig.cache
