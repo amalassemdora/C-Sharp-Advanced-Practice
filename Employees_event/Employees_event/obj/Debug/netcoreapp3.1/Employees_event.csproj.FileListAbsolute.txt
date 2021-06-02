@@ -1,0 +1,13 @@
+E:\ITI\iti\C# Advanced\Day6\Tasks\Employees_event\Employees_event\bin\Debug\netcoreapp3.1\Employees_event.exe
+E:\ITI\iti\C# Advanced\Day6\Tasks\Employees_event\Employees_event\bin\Debug\netcoreapp3.1\Employees_event.deps.json
+E:\ITI\iti\C# Advanced\Day6\Tasks\Employees_event\Employees_event\bin\Debug\netcoreapp3.1\Employees_event.runtimeconfig.json
+E:\ITI\iti\C# Advanced\Day6\Tasks\Employees_event\Employees_event\bin\Debug\netcoreapp3.1\Employees_event.runtimeconfig.dev.json
+E:\ITI\iti\C# Advanced\Day6\Tasks\Employees_event\Employees_event\bin\Debug\netcoreapp3.1\Employees_event.dll
+E:\ITI\iti\C# Advanced\Day6\Tasks\Employees_event\Employees_event\bin\Debug\netcoreapp3.1\Employees_event.pdb
+E:\ITI\iti\C# Advanced\Day6\Tasks\Employees_event\Employees_event\obj\Debug\netcoreapp3.1\Employees_event.csprojAssemblyReference.cache
+E:\ITI\iti\C# Advanced\Day6\Tasks\Employees_event\Employees_event\obj\Debug\netcoreapp3.1\Employees_event.AssemblyInfoInputs.cache
+E:\ITI\iti\C# Advanced\Day6\Tasks\Employees_event\Employees_event\obj\Debug\netcoreapp3.1\Employees_event.AssemblyInfo.cs
+E:\ITI\iti\C# Advanced\Day6\Tasks\Employees_event\Employees_event\obj\Debug\netcoreapp3.1\Employees_event.csproj.CoreCompileInputs.cache
+E:\ITI\iti\C# Advanced\Day6\Tasks\Employees_event\Employees_event\obj\Debug\netcoreapp3.1\Employees_event.dll
+E:\ITI\iti\C# Advanced\Day6\Tasks\Employees_event\Employees_event\obj\Debug\netcoreapp3.1\Employees_event.pdb
+E:\ITI\iti\C# Advanced\Day6\Tasks\Employees_event\Employees_event\obj\Debug\netcoreapp3.1\Employees_event.genruntimeconfig.cache
